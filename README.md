@@ -35,7 +35,13 @@ While the current version is functional, there's room for improvement. Future it
 - Adding enemies or obstacles
 - Implementing a scoring system
 - Creating multiple levels
+
+
+
 - Improving graphics and animations
 - Adding sound effects and background music
 
 These improvements could be implemented by providing additional prompts to the AI or through human intervention.
+
+https://github.com/user-attachments/assets/a60b5c01-136d-4f69-9ca2-87805c068d46
+
